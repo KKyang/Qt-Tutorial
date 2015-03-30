@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/1341298033_Play1Pressed.png</file>
+        <file>icon/1341298112_Next.png</file>
+        <file>icon/1341298185_edit-clear.png</file>
+        <file>icon/1341298260_cog_go.png</file>
+        <file>icon/1341298381_folder_open.png</file>
+        <file>icon/1341298625_direction_right.png</file>
+        <file>icon/1341298630_direction_left.png</file>
+        <file>icon/1341298634_direction_up.png</file>
+        <file>icon/1341298637_direction_down.png</file>
+        <file>icon/1341546090_Settings.png</file>
+        <file>icon/1341548429_old-go-top.png</file>
+        <file>icon/1341548723_ksnapshot.png</file>
+        <file>icon/1345251931_button_cancel.png</file>
+        <file>icon/1345251992_Log Out.png</file>
+        <file>icon/1345252034_starthere.png</file>
+        <file>icon/1345252125_web_camera.png</file>
+        <file>icon/1345277761_speedometer.png</file>
+        <file>icon/1345279534_Flag3RightBlue2.png</file>
+    </qresource>
+</RCC>
